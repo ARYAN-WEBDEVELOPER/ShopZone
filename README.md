@@ -6,7 +6,7 @@ ShopZone is a fully functional **Single Page Application (SPA)** built using Rea
 
 ## 🚀 Live Demo
 
-🔗 *Add your deployed link here (Vercel/Netlify)*
+🔗 https://shop-zone-seven-gules.vercel.app/
 
 ---
 
